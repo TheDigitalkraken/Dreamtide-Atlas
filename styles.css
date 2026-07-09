@@ -104,7 +104,7 @@ body {
 #scale-bar-container {
     position: absolute;
     bottom: -10px;
-    right: 65px;
+    left: calc(50% + 120px);
     display: flex;
     flex-direction: row;
     align-items: center;
